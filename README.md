@@ -10,4 +10,4 @@ More details are presented into the notebook `code.ipynb`.
 ## Instructions
 To use the code, it is necessary to clone the repository and to install all the missing packets, through a command line such as the following example: `pip install torch`. 
 
-Then, it's possible to try it by running all the cells in a sequential way. We suggest you to load the pretrained checkpoints and do not train the model again. :-) 
+Then, it's possible to try it by opening the notebook `code.ipynb` and running all the cells in a sequential way. We suggest you to load the pretrained checkpoints and do not train the model again. :smile:  
